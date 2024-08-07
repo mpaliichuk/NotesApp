@@ -19,7 +19,7 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/NotesApp.git
+git clone https://github.com/mpaliichuk/NotesApp.git
 cd NotesApp
 ```
 
